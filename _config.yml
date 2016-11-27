@@ -1,0 +1,17 @@
+# Site settings
+title: Tristan Rigaut - personal website
+email: tristan.rigaut@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  I am a PhD student at Efficacity, a R&D institute for the energy
+  transition of cities near Paris, France. My advisors work at CERMICS,
+  the applied mathematics research department of Ecole des Ponts Paristech and
+  COSYS the Components and Systems department of IFSTTAR.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://trigaut.github.io/" # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+github_username:  trigaut
+
+permalink: /blog/:year/:month/:day/:title
+
+# Build settings
+markdown: kramdown
